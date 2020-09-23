@@ -1,4 +1,4 @@
-# Investigating-Fandango-Movie-Ratings
+
 # Investigating Fandango Movie Ratings
 
 > In October 2015, a data journalist named Walt Hickey analyzed 
